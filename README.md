@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages1122345688888
+# GitHub Pages
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
@@ -20,7 +20,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
 
-## Step 2: Configure your site
+## Step 2: Configure your site 1122345688888
 
 _You turned on GitHub Pages! :tada:_
 
